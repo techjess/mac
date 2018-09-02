@@ -1,0 +1,2 @@
+//command to find files and move or cp to another directory
+find /Users/temp/Desktop/recovery/ -iname \*.jpg -exec cp {} /Users/temp/Desktop/pics/ \;
